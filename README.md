@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @paulwakoko
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning python and data science
-- 💞️ I’m looking to collaborate on github an all other platforms with different people with knowledge on software development
-- 📫 You can reach me through my email:wakokopaul96@gmail.com
+- 👋 Hi, I’m Paul
+- 👀 You can reach me through my email:wakokopaul96@gmail.com
+- 🌱 Find my resume here https://rxresu.me/wakokopaul96/my-resume
+-  💞️ 
+- 📫 
 
 <!---
 paulwakoko/paulwakoko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
